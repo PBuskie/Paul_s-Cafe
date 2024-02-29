@@ -70,6 +70,7 @@ a {
     color: bisque;
     -webkit-text-stroke-color: rgb(87, 52, 0);
     -webkit-text-stroke-width: 1px;
+    letter-spacing: 5px;
 }
 
 #logo{
